@@ -1,0 +1,122 @@
+[
+    {
+      "keys": [
+        "n"
+      ],
+      "length": 1,
+      "_fields": [
+        {
+          "identity": {
+            "low": 6,
+            "high": 0
+          },
+          "labels": [
+            "legal_Repr"
+          ],
+          "properties": {
+            "name_legalRepr": "法人代表_LegalRepr",
+            "comId": "公司代码_CompanyCode"
+          }
+        }
+      ],
+      "_fieldLookup": {
+        "n": 0
+      }
+    },
+    {
+      "keys": [
+        "n"
+      ],
+      "length": 1,
+      "_fields": [
+        {
+          "identity": {
+            "low": 7,
+            "high": 0
+          },
+          "labels": [
+            "legal_Repr"
+          ],
+          "properties": {
+            "name_legalRepr": "吉晓辉",
+            "comId": "1030"
+          }
+        }
+      ],
+      "_fieldLookup": {
+        "n": 0
+      }
+    },
+    {
+      "keys": [
+        "n"
+      ],
+      "length": 1,
+      "_fields": [
+        {
+          "identity": {
+            "low": 8,
+            "high": 0
+          },
+          "labels": [
+            "legal_Repr"
+          ],
+          "properties": {
+            "name_legalRepr": "李贵阳",
+            "comId": "1031"
+          }
+        }
+      ],
+      "_fieldLookup": {
+        "n": 0
+      }
+    },
+    {
+      "keys": [
+        "n"
+      ],
+      "length": 1,
+      "_fields": [
+        {
+          "identity": {
+            "low": 9,
+            "high": 0
+          },
+          "labels": [
+            "legal_Repr"
+          ],
+          "properties": {
+            "name_legalRepr": "张瑞生",
+            "comId": "1032"
+          }
+        }
+      ],
+      "_fieldLookup": {
+        "n": 0
+      }
+    },
+    {
+      "keys": [
+        "n"
+      ],
+      "length": 1,
+      "_fields": [
+        {
+          "identity": {
+            "low": 10,
+            "high": 0
+          },
+          "labels": [
+            "legal_Repr"
+          ],
+          "properties": {
+            "name_legalRepr": "孙熠嵩",
+            "comId": "1033"
+          }
+        }
+      ],
+      "_fieldLookup": {
+        "n": 0
+      }
+    }
+  ]
